@@ -90,7 +90,7 @@ public class AsciiChars
 	  			System.out.println("Enter a random number from 1-50");
 	  			Integer randomNum = Integer.parseInt(input.nextLine());
 	  			while(randomNum > 50 || randomNum < 1) {
-	  				System.out.println("That number is not within the required rane. Please provide a random number from 1-50");
+	  				System.out.println("That number is not within the required range. Please provide a random number from 1-50");
 		  			randomNum = Integer.parseInt(input.nextLine());
 	  			}
 	  			//#####################################################################
