@@ -142,4 +142,5 @@ public class AsciiChars
 	  } else {System.out.println("\nPlease return later to complete the survey.");}
   	}
  }
-  
+//Feedback for this activity: The instructions were EXTREMELY unclear and I had to rewrite this several times. There are multiple ways to make this
+//less cumbersome on the programmer (Implementation of separate helper functions, try catch blocks, etc.) and I think that this lab should be revised for future courses.
